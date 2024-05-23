@@ -1320,7 +1320,6 @@
     "https://deno.land/x/zod@v3.22.4/types.ts": "724185522fafe43ee56a52333958764c8c8cd6ad4effa27b42651df873fc151e",
     "https://esm.sh/async-retry@1.3.3": "a25205446a6dc7db2697114226f7a9c76a7c405d644b1b8d40a89d3cb9e706fa",
     "https://esm.sh/he@1.2.0": "388a449d0b163506f1a5ed1b9fe178c29433c9a3af5b2465c92ec4adb0f35792",
-    "https://esm.sh/node-telegram-bot-api@0.65.1": "d12af9b172ed630b4ef5302d927c82fa31e6e4fee1b003ff5cae287d2dafea82",
     "https://esm.sh/v135/@cypress/request-promise@5.0.0/denonext/request-promise.mjs": "bb0a8f8f5975b2b80c68c70a37a726bd3f1db1233e0982aeba785e308c184463",
     "https://esm.sh/v135/@cypress/request@3.0.1/denonext/request.mjs": "ab25d58c9a3fd8b656aa23008eb0c9dc8ab4b78c9019d7cb18dcbcf8b3e72aba",
     "https://esm.sh/v135/array.prototype.findindex@2.2.2/denonext/array.prototype.findindex.mjs": "13fa8bc1918fafe047d3b3f338dda3ded7a5d9e6b1326d4ec01708c3e0129ba4",
