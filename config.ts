@@ -3,6 +3,7 @@ import { defineConfig } from "./src/config/init-config.ts";
 export default defineConfig({
   feedUrls: [
     "https://mikanani.me/RSS/Bangumi?bangumiId=3290&subgroupid=583",
+    "https://mikanani.me/RSS/Bangumi?bangumiId=3330&subgroupid=634",
   ],
   feed_concurrency: 4,
   job_concurrency: 8,
